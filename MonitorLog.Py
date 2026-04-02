@@ -71,3 +71,4 @@ def gerarIp(i):
         return '192.168.23.3'
     elif r == 6:
         return '192.168.0.3'
+menu()
